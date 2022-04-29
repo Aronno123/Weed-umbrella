@@ -1,2 +1,3 @@
-# Weed-umbrella
-Call me DaDy
+weed-umbrella
+call me DaDy
+cd Weed-umbrella
